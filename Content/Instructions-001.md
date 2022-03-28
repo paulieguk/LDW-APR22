@@ -1,5 +1,5 @@
-# 001 - Welcome to the Lab Developer Workshop - Month YYYY
-## Workshop Title
+# 001 - Welcome to the Lab Developer Workshop - April 2022
+## Skillable Public Cloud Primer
 
 ### Before you start
 
